@@ -1,0 +1,14 @@
+.card {
+  /* background-color: var(--mantine-color-body); */
+  background-color: white;
+  height: 350px;
+  width: 300px;
+  margin-top: 20px;
+}
+
+.avatar {
+  border: solid 1px #000;
+  height: 120px;
+  width: 120px;
+  /* border: rem(2px) solid var(--mantine-color-body); */
+}
